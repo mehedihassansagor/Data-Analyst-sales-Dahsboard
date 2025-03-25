@@ -8,5 +8,6 @@ Slicers: Interactive data filtering
 Charts: Visual representation of sales trends
 Formulas: Data calculations and metrics
 
-Interactive Dashboard.
+Interactive Dashboard. </br>
+
 <img width="618" alt="sales dash board" src="https://github.com/user-attachments/assets/ef577da1-3ee6-45e0-8512-d125e9a45d77" />
