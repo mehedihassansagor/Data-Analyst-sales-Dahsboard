@@ -1,2 +1,12 @@
-# Data-Analyst-sales-Dahsboard
-Developed a dynamic sales dashboard in Excel to analyze and visualize sales data across years and regions, using pivot tables and slicers for interactive filtering of key metrics like sales and profit.
+Project Title: Sales Dashboard for Performance Analysis
+Description: Developed a dynamic sales dashboard using Excel to analyze and visualize sales data across multiple years and regions. The dashboard includes key metrics such as total sales, profit margins, and performance by product category. Utilized pivot tables for data aggregation and slicers to enable interactive filtering of sales performance by region, category, and time period.
+
+Here are the technologies used for the project:
+Excel: Data analysis and dashboard creation
+Pivot Tables: Data aggregation and summarization
+Slicers: Interactive data filtering
+Charts: Visual representation of sales trends
+Formulas: Data calculations and metrics
+
+Interactive Dashboard.
+<img width="618" alt="sales dash board" src="https://github.com/user-attachments/assets/ef577da1-3ee6-45e0-8512-d125e9a45d77" />
