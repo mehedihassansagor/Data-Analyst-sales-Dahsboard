@@ -1,4 +1,4 @@
-Project Title: Sales Dashboard for Performance Analysis
+Project Title: Sales Dashboard for Performance Analysis </br>
 Description: Developed a dynamic sales dashboard using Excel to analyze and visualize sales data across multiple years and regions. The dashboard includes key metrics such as total sales, profit margins, and performance by product category. Utilized pivot tables for data aggregation and slicers to enable interactive filtering of sales performance by region, category, and time period.
 
 Here are the technologies used for the project:
